@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <!-- News articles will be added here -->
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.bouncebeam.co/post-v2/test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-16T08:38:10.803Z</news:publication_date>
+      <news:title>test</news:title>
+      <news:keywords></news:keywords>
+      <news:author>Unknown</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://thumbs.dreamstime.com/b/diverse-human-rights-books-law-education-university-eam-paris-france-nov-preparation-examination-exam-pass-mb-phd-thesis-83720419.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-06-16T15:12:05.425Z</lastmod>
+  </url>
 </urlset>
