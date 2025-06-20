@@ -4,6 +4,24 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.bouncebeam.co/post-v2/understanding-tuketici-hukuku</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-20T12:34:06.611Z</news:publication_date>
+      <news:title>Understanding Tüketici Hukuku: Navigating Consumer Rights</news:title>
+      <news:keywords>consumer law, tüketici hukuku, Turkey, legal rights</news:keywords>
+      <news:author>Mira Lang</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.orhanhukukdanismanlik.com/wp-content/uploads/2024/02/tuketici-hukuku.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-06-20T12:34:06.611Z</lastmod>
+  </url>
+
+  <url>
     <loc>https://www.bouncebeam.co/post-v2/an-in-depth-look-at-tuketici-hukuku-navigating-consumer-protection</loc>
     <news:news>
       <news:publication>
