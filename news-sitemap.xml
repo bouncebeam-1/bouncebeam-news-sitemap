@@ -3,4 +3,21 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <url>
+    <loc>https://www.bouncebeam.co/post-v2/empty-dataset-error</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-24T12:15:31.019Z</news:publication_date>
+      <news:title>Empty Data Set Error</news:title>
+      <news:keywords>empty dataset, error, missing data</news:keywords>
+      <news:author>Camille Rhodes</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.bouncebeam.co/default-news-thumbnail.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-06-24T12:15:31.019Z</lastmod>
+  </url>
 </urlset>
