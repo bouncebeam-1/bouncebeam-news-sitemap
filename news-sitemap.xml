@@ -4,6 +4,24 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.bouncebeam.co/post-v2/the-rise-of-youtube-shorts-a-video-revolution</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-13T11:04:05.955Z</news:publication_date>
+      <news:title>The Rise of YouTube Shorts: A Video Revolution</news:title>
+      <news:keywords>YouTube Shorts, video content, short-form video, content creation, digital trends</news:keywords>
+      <news:author>Sienna Blake</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://embedsocial.com/wp-content/uploads/2023/11/embed-youtube-shorts.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-07-13T11:04:05.955Z</lastmod>
+  </url>
+
+  <url>
     <loc>https://www.bouncebeam.co/post-v2/navigating-the-complex-world-of-payroll-in-europe</loc>
     <news:news>
       <news:publication>
@@ -37,23 +55,5 @@
       <image:loc>https://ps-bpo.com/wp-content/uploads/760--000079819941.jpg</image:loc>
     </image:image>
     <lastmod>2025-07-11T14:32:50.070Z</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.bouncebeam.co/post-v2/finding-apple-support-navigating-customer-assistance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Bouncebeam</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-11T11:28:31.712Z</news:publication_date>
-      <news:title>Finding Apple Support: Navigating the Maze of Customer Assistance</news:title>
-      <news:keywords>Apple support, customer assistance, Apple contact, Apple scams</news:keywords>
-      <news:author>Leo Chambers</news:author>
-    </news:news>
-    <image:image>
-      <image:loc>https://rtlimages.apple.com/cmc/dieter/store/16_9/R043.png?resize=750:422&amp;output-format=jpg&amp;output-quality=85&amp;interpolation=progressive-bicubic</image:loc>
-    </image:image>
-    <lastmod>2025-07-11T11:28:31.712Z</lastmod>
   </url>
 </urlset>
