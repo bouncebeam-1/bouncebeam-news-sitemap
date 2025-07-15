@@ -4,6 +4,24 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.bouncebeam.co/post-v2/understanding-y-combinators-cap-table-management</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-15T13:59:13.768Z</news:publication_date>
+      <news:title>Understanding Y Combinator&apos;s Cap Table Management</news:title>
+      <news:keywords>Y Combinator, Cap Table, SAFE, Pulley, Startup Finance</news:keywords>
+      <news:author>Leo Chambers</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://yairudi.com/wp-content/uploads/2022/04/Y-Combinator.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-07-15T13:59:13.768Z</lastmod>
+  </url>
+
+  <url>
     <loc>https://www.bouncebeam.co/post-v2/exploring-apple-stores-usa</loc>
     <news:news>
       <news:publication>
