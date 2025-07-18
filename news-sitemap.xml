@@ -3,21 +3,4 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <url>
-    <loc>https://www.bouncebeam.co/post-v2/navigating-y-combinator-cap-table-landscape</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Bouncebeam</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-16T14:32:13.042Z</news:publication_date>
-      <news:title>Navigating the Y Combinator Cap Table Landscape</news:title>
-      <news:keywords>Y Combinator, cap table, SAFE, Pulley, startup equity</news:keywords>
-      <news:author>Ivy Morgan</news:author>
-    </news:news>
-    <image:image>
-      <image:loc>https://yairudi.com/wp-content/uploads/2022/04/Y-Combinator.jpg</image:loc>
-    </image:image>
-    <lastmod>2025-07-16T14:32:13.042Z</lastmod>
-  </url>
 </urlset>
