@@ -3,4 +3,21 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <url>
+    <loc>https://www.bouncebeam.co/post-v2/transforming-business-communication-with-slack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-25T11:29:40.986Z</news:publication_date>
+      <news:title>Transforming Business Communication with Slack</news:title>
+      <news:keywords>Slack, business communication, internal collaboration, external partners</news:keywords>
+      <news:author>Elise Quinn</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/External-Communication.jpg?d=500x500&amp;f=inside</image:loc>
+    </image:image>
+    <lastmod>2025-07-25T11:29:40.986Z</lastmod>
+  </url>
 </urlset>
