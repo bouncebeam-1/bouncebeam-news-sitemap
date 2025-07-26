@@ -4,6 +4,24 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.bouncebeam.co/post-v2/understanding-y-combinator-cap-tables</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Bouncebeam</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-26T14:09:57.450Z</news:publication_date>
+      <news:title>Understanding Y Combinator Cap Tables: A Comprehensive Guide</news:title>
+      <news:keywords>Y Combinator, Cap Table, SAFE, Startups, Pulley</news:keywords>
+      <news:author>Mira Lang</news:author>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.betakit.com/wp-content/uploads/2024/10/Revyl-YC-770x514.jpg</image:loc>
+    </image:image>
+    <lastmod>2025-07-26T14:09:57.450Z</lastmod>
+  </url>
+
+  <url>
     <loc>https://www.bouncebeam.co/post-v2/navigating-y-combinator-cap-table-landscape</loc>
     <news:news>
       <news:publication>
