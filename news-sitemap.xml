@@ -3,39 +3,4 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <url>
-    <loc>https://www.bouncebeam.co/post-v2/navigating-youtube-video-download-options</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Bouncebeam</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T21:13:28.308Z</news:publication_date>
-      <news:title>Navigating YouTube Video Download Options: A Comprehensive Guide</news:title>
-      <news:keywords>YouTube, video downloading, online tools, software solutions, legal considerations</news:keywords>
-      <news:author>Noah Sterling</news:author>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.intotheminds.com/blog/app/uploads/youtube.jpg</image:loc>
-    </image:image>
-    <lastmod>2025-07-28T09:50:38.018Z</lastmod>
-  </url>
-
-  <url>
-    <loc>https://www.bouncebeam.co/post-v2/intricacies-of-youtube-video-downloads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Bouncebeam</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T21:09:16.381Z</news:publication_date>
-      <news:title>The Intricacies of YouTube Video Downloads: Navigating the Landscape</news:title>
-      <news:keywords>YouTube, video downloads, third-party tools, online streaming</news:keywords>
-      <news:author>Marcus Reed</news:author>
-    </news:news>
-    <image:image>
-      <image:loc>https://img.favpng.com/17/21/15/youtube-freemake-video-downloader-png-favpng-5h0k2K6TQ8eysTAaUbGPBWfFB.jpg</image:loc>
-    </image:image>
-    <lastmod>2025-07-28T09:50:38.018Z</lastmod>
-  </url>
 </urlset>
