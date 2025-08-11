@@ -3,21 +3,4 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <url>
-    <loc>https://www.bouncebeam.co/post-v2/understanding-stripe-login-navigating-your-dashboard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Bouncebeam</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-09T17:38:44.993Z</news:publication_date>
-      <news:title>Understanding Stripe Login: Navigating Your Dashboard with Confidence</news:title>
-      <news:keywords>Stripe, login, dashboard, digital payments</news:keywords>
-      <news:author>Leo Chambers</news:author>
-    </news:news>
-    <image:image>
-      <image:loc>https://s3-eu-west-1.amazonaws.com/guidez-thumbnails/p/xfcie7q9vd-rd0vy7jhp9_600.jpg</image:loc>
-    </image:image>
-    <lastmod>2025-08-11T11:19:35.809Z</lastmod>
-  </url>
 </urlset>
